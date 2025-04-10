@@ -4,13 +4,19 @@ const exercito1 = ["Igris", "Iron", "Beru"];
 const exercito2 = ["Bellion", "Kaisel"];
 
 function juntarExercitos(arr1, arr2) {
-  // Use SPREAD aqui
+  return [...arr1, ...arr2];
 }
 
 function calcularPoderTotal(...niveis) {
-  // Use REST aqui com reduce
+  return niveis.reduce((acc, n) => acc + n, 0);
 }
 
 // Testes:
 // const exercitoFinal = juntarExercitos(...);
 // const totalPoder = calcularPoderTotal(...);
+
+const exercitoFinal = juntarExercitos(exercito1, exercito2);
+console.log("Exército completo:", exercitoFinal);
+
+const totalPoder = calcularPoderTotal(5, 10, 7, 15);
+console.log("Total de poder:", totalPoder);

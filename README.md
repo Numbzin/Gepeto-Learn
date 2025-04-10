@@ -27,6 +27,8 @@ modulo-01-javascript/
 ├── aula-09-metodos-array/
 ├── aula-10-metodos-array-extra/
 ├── aula-11-spread-rest/
+├── aula-12-controle-de-fluxo/
+├── aula-13-strings/
 ├── projeto-01-calculadora-orcamento/
 ├── projeto-02-cadastro-cliente/
 ├── projeto-03-boletim-escolar/
@@ -42,13 +44,15 @@ modulo-01-javascript/
 ✅ Variáveis (`let`, `const`, `var`)  
 ✅ Tipos de dados primitivos (string, number, boolean, null, undefined)  
 ✅ Operadores matemáticos e lógicos  
-✅ Estruturas condicionais (`if`, `else`, `else if`, `ternário`)  
+✅ Estruturas condicionais (`if`, `else`, `else if`, `ternário`, `switch`)  
+✅ Tratamento de erro com `try`, `catch`, `throw`  
 ✅ Loops (`for`, `while`, `do while`, `for...of`)  
 ✅ Objetos e arrays  
 ✅ Funções com e sem `return`  
 ✅ Arrow functions  
 ✅ Métodos de array (`map`, `filter`, `reduce`, `find`, `some`, `every`, `sort`)  
-✅ Operadores Spread e Rest (`...`)
+✅ Operadores Spread e Rest (`...`)  
+✅ Manipulação de strings (`toUpperCase`, `includes`, `slice`, `replace`, etc)
 
 ---
 
@@ -59,7 +63,7 @@ modulo-01-javascript/
 ⚔️ Projeto 03 – Sistema de boletim com média e status  
 ⚔️ Projeto 04 – Boletim com funções reutilizáveis  
 ⚔️ Projeto 05 – Exército das sombras (map + filter + reduce)  
-⚔️ Projeto 06 – Fusão de shadows + cálculo de poder (spread + rest)
+⚔️ Projeto 06 – Fusão de sombras + cálculo de poder (spread + rest)
 
 ---
 
