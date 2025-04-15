@@ -29,12 +29,20 @@ modulo-01-javascript/
 ├── aula-11-spread-rest/
 ├── aula-12-controle-de-fluxo/
 ├── aula-13-strings/
+├── aula-14-math-date/
+├── aula-15-json/
+├── aula-16-arrays-objetos/
+├── aula-17-funcoes-avancadas/
+├── aula-18-arrow-functions/
 ├── projeto-01-calculadora-orcamento/
 ├── projeto-02-cadastro-cliente/
 ├── projeto-03-boletim-escolar/
 ├── projeto-04-sistema-boletim-funcional/
 ├── projeto-05-sistema-sombras/
 ├── projeto-06-fusao-sombras/
+├── projeto-07-registro-shadows/
+├── projeto-08-menu-interativo/
+├── projeto-09-arquivo-sombras/
 ```
 
 ---
@@ -49,10 +57,14 @@ modulo-01-javascript/
 ✅ Loops (`for`, `while`, `do while`, `for...of`)  
 ✅ Objetos e arrays  
 ✅ Funções com e sem `return`  
-✅ Arrow functions  
+✅ Arrow functions (básicas e avançadas, retorno de objetos, multilinha)  
 ✅ Métodos de array (`map`, `filter`, `reduce`, `find`, `some`, `every`, `sort`)  
 ✅ Operadores Spread e Rest (`...`)  
-✅ Manipulação de strings (`toUpperCase`, `includes`, `slice`, `replace`, etc)
+✅ Manipulação de strings (`toUpperCase`, `includes`, `slice`, `replace`, etc)  
+✅ Datas e números com `Math` e `Date`  
+✅ JSON (stringify e parse)  
+✅ Registro e leitura de arquivos com módulo `fs`  
+✅ Escopo, função aninhada, e uso de callbacks
 
 ---
 
@@ -63,7 +75,10 @@ modulo-01-javascript/
 ⚔️ Projeto 03 – Sistema de boletim com média e status  
 ⚔️ Projeto 04 – Boletim com funções reutilizáveis  
 ⚔️ Projeto 05 – Exército das sombras (map + filter + reduce)  
-⚔️ Projeto 06 – Fusão de sombras + cálculo de poder (spread + rest)
+⚔️ Projeto 06 – Fusão de sombras + cálculo de poder (spread + rest)  
+⚔️ Projeto 07 – Registro de sombras com JSON e datas  
+⚔️ Projeto 08 – Sistema interativo no terminal (menu com readline)  
+⚔️ Projeto 09 – Armazenamento de sombras em arquivo JSON com fs
 
 ---
 
