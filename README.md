@@ -34,6 +34,8 @@ modulo-01-javascript/
 ├── aula-16-arrays-objetos/
 ├── aula-17-funcoes-avancadas/
 ├── aula-18-arrow-functions/
+├── aula-19-funcoes-alta-ordem/
+├── aula-20-strings-avancadas/
 ├── projeto-01-calculadora-orcamento/
 ├── projeto-02-cadastro-cliente/
 ├── projeto-03-boletim-escolar/
@@ -60,11 +62,12 @@ modulo-01-javascript/
 ✅ Arrow functions (básicas e avançadas, retorno de objetos, multilinha)  
 ✅ Métodos de array (`map`, `filter`, `reduce`, `find`, `some`, `every`, `sort`)  
 ✅ Operadores Spread e Rest (`...`)  
-✅ Manipulação de strings (`toUpperCase`, `includes`, `slice`, `replace`, etc)  
+✅ Manipulação de strings (`toUpperCase`, `includes`, `slice`, `replace`, `split`, `join`, `trim`)  
 ✅ Datas e números com `Math` e `Date`  
 ✅ JSON (stringify e parse)  
 ✅ Registro e leitura de arquivos com módulo `fs`  
-✅ Escopo, função aninhada, e uso de callbacks
+✅ Escopo, função aninhada, uso de callbacks  
+✅ Funções de alta ordem e composição funcional
 
 ---
 
