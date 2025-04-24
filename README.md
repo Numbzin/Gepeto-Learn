@@ -93,5 +93,5 @@ Se você curtiu, achou útil ou quer acompanhar minha evolução, fique à vonta
 
 ---
 
-> "Mesmo que você seja o mais fraco... com prática e estratégia, você pode se tornar o monarca."  
+> "Até o mais fraco pode se tornar um monarca... se dominar a si mesmo e evoluir sem parar."  
 > — Adaptado de **Solo Leveling** 🖤
