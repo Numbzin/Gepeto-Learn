@@ -36,6 +36,8 @@ modulo-01-javascript/
 ├── aula-18-arrow-functions/
 ├── aula-19-funcoes-alta-ordem/
 ├── aula-20-strings-avancadas/
+├── aula-21-regex/
+├── aula-22-arrays-objetos-avancado/
 ├── projeto-01-calculadora-orcamento/
 ├── projeto-02-cadastro-cliente/
 ├── projeto-03-boletim-escolar/
@@ -45,6 +47,9 @@ modulo-01-javascript/
 ├── projeto-07-registro-shadows/
 ├── projeto-08-menu-interativo/
 ├── projeto-09-arquivo-sombras/
+├── desafio-bonus-formatar-titulo/
+├── desafio-bonus-censura/
+├── desafio-bonus-relatorio-sombras/
 ```
 
 ---
@@ -67,7 +72,9 @@ modulo-01-javascript/
 ✅ JSON (stringify e parse)  
 ✅ Registro e leitura de arquivos com módulo `fs`  
 ✅ Escopo, função aninhada, uso de callbacks  
-✅ Funções de alta ordem e composição funcional
+✅ Funções de alta ordem e composição funcional  
+✅ Expressões regulares (Regex)  
+✅ Manipulação avançada de arrays de objetos
 
 ---
 
