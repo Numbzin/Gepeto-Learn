@@ -40,6 +40,12 @@ modulo-01-javascript/
 ├── aula-20-strings-avancadas/
 ├── aula-21-regex/
 ├── aula-22-arrays-objetos-avancado/
+├── aula-23-simulando-api/
+├── aula-24-estrutura-sistemas/
+├── desafio-bonus-censura/
+├── desafio-bonus-formatar-titulo/
+├── desafio-bonus-fusao-efeitos/
+├── desafio-bonus-relatorio-sombras/
 ├── projeto-01-calculadora-orcamento/
 ├── projeto-02-cadastro-cliente/
 ├── projeto-03-boletim-escolar/
@@ -51,9 +57,6 @@ modulo-01-javascript/
 ├── projeto-09-arquivo-sombras/
 ├── projeto-10-sistema-vip/
 ├── projeto-final-sistema-missoes/
-├── desafio-bonus-formatar-titulo/
-├── desafio-bonus-censura/
-├── desafio-bonus-relatorio-sombras/
 ```
 
 ✅ **Status:** 100% finalizado!
@@ -64,7 +67,7 @@ modulo-01-javascript/
 
 ```bash
 modulo-02-node-api/
-├── (aulas e projetos a partir da primeira aula de Node)
+├── aula-01-introducao-node/
 ```
 
 ---
@@ -91,7 +94,9 @@ modulo-02-node-api/
 ✅ Expressões regulares (Regex)  
 ✅ Manipulação avançada de arrays de objetos  
 ✅ Organização de sistemas modulares  
-✅ Estruturação de projetos e fluxo real
+✅ Estruturação de projetos e fluxo real  
+✅ Simulação de consumo de APIs  
+✅ Estrutura de pequenos sistemas profissionais
 
 ---
 
@@ -119,5 +124,5 @@ Se você curtiu, achou útil ou quer acompanhar minha evolução, fique à vonta
 
 ---
 
-> "Até o mais fraco pode se tornar um monarca... se dominar a si mesmo e evoluir sem parar."  
+> "Mesmo que você seja o mais fraco, com prática e estratégia, você pode se tornar um monarca."  
 > — Adaptado de **Solo Leveling** 🖤
