@@ -12,7 +12,9 @@ O aprendizado é 100% guiado, estruturado em módulos, com explicações claras,
 
 ---
 
-## 📦 Estrutura dos módulos
+# 📚 Estrutura dos módulos
+
+## 📦 Módulo 01 — JavaScript Puro (FINALIZADO ✅)
 
 ```bash
 modulo-01-javascript/
@@ -33,7 +35,7 @@ modulo-01-javascript/
 ├── aula-15-json/
 ├── aula-16-arrays-objetos/
 ├── aula-17-funcoes-avancadas/
-├── aula-18-arrow-functions/
+├── aula-18-arrow-functions02/
 ├── aula-19-funcoes-alta-ordem/
 ├── aula-20-strings-avancadas/
 ├── aula-21-regex/
@@ -47,19 +49,32 @@ modulo-01-javascript/
 ├── projeto-07-registro-shadows/
 ├── projeto-08-menu-interativo/
 ├── projeto-09-arquivo-sombras/
+├── projeto-10-sistema-vip/
+├── projeto-final-sistema-missoes/
 ├── desafio-bonus-formatar-titulo/
 ├── desafio-bonus-censura/
 ├── desafio-bonus-relatorio-sombras/
 ```
 
+✅ **Status:** 100% finalizado!
+
 ---
 
-## 📚 Conteúdo aprendido até agora
+## 📦 Módulo 02 — Node.js e APIs (iniciando)
+
+```bash
+modulo-02-node-api/
+├── (aulas e projetos a partir da primeira aula de Node)
+```
+
+---
+
+# 📚 Conteúdo aprendido até agora
 
 ✅ Variáveis (`let`, `const`, `var`)  
 ✅ Tipos de dados primitivos (string, number, boolean, null, undefined)  
 ✅ Operadores matemáticos e lógicos  
-✅ Estruturas condicionais (`if`, `else`, `else if`, `ternário`, `switch`)  
+✅ Estruturas condicionais (`if`, `else if`, `ternário`, `switch`)  
 ✅ Tratamento de erro com `try`, `catch`, `throw`  
 ✅ Loops (`for`, `while`, `do while`, `for...of`)  
 ✅ Objetos e arrays  
@@ -74,11 +89,13 @@ modulo-01-javascript/
 ✅ Escopo, função aninhada, uso de callbacks  
 ✅ Funções de alta ordem e composição funcional  
 ✅ Expressões regulares (Regex)  
-✅ Manipulação avançada de arrays de objetos
+✅ Manipulação avançada de arrays de objetos  
+✅ Organização de sistemas modulares  
+✅ Estruturação de projetos e fluxo real
 
 ---
 
-## 🗂️ Projetos práticos com tema Solo Leveling
+# 🗂️ Projetos práticos com tema Solo Leveling
 
 ⚔️ Projeto 01 – Calculadora de orçamento  
 ⚔️ Projeto 02 – Cadastro de cliente com validação  
@@ -88,11 +105,13 @@ modulo-01-javascript/
 ⚔️ Projeto 06 – Fusão de sombras + cálculo de poder (spread + rest)  
 ⚔️ Projeto 07 – Registro de sombras com JSON e datas  
 ⚔️ Projeto 08 – Sistema interativo no terminal (menu com readline)  
-⚔️ Projeto 09 – Armazenamento de sombras em arquivo JSON com fs
+⚔️ Projeto 09 – Armazenamento de sombras em arquivo JSON com fs  
+⚔️ Projeto 10 – Sistema VIP do Exército das Sombras  
+⚔️ Projeto Final – Sistema de Missões do Exército das Sombras
 
 ---
 
-## 👤 Autor
+# 👤 Autor
 
 Este repositório é parte do meu estudo pessoal, guiado 100% por conteúdo didático e projetos desenvolvidos com acompanhamento de IA.
 
