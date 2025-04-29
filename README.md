@@ -63,11 +63,14 @@ modulo-01-javascript/
 
 ---
 
-## 📦 Módulo 02 — Node.js e APIs (iniciando)
+## 📦 Módulo 02 — Node.js e APIs (em andamento 🚀)
 
 ```bash
 modulo-02-node-api/
 ├── aula-01-introducao-node/
+├── aula-02-servidor-http/
+├── aula-03-json-api/
+├── aula-04-arrays-json/
 ```
 
 ---
@@ -96,7 +99,9 @@ modulo-02-node-api/
 ✅ Organização de sistemas modulares  
 ✅ Estruturação de projetos e fluxo real  
 ✅ Simulação de consumo de APIs  
-✅ Estrutura de pequenos sistemas profissionais
+✅ Criação de servidores HTTP no Node.js  
+✅ Envio de respostas JSON para front-end  
+✅ Rotas dinâmicas e tratamento de múltiplos endpoints
 
 ---
 
