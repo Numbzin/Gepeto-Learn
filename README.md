@@ -71,6 +71,11 @@ modulo-02-node-api/
 ├── aula-02-servidor-http/
 ├── aula-03-json-api/
 ├── aula-04-arrays-json/
+├── aula-05-reestruturando-codigo/
+├── aula-06-shadowdb-modulo/
+├── aula-07-leitura-json/
+├── aula-08-rotas-basicas/
+├── aula-09-rotas-dinamicas/
 ```
 
 ---

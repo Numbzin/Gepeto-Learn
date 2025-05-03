@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nome": "Beru",
+    "nivel": 10
+  },
+  {
+    "id": 2,
+    "nome": "Igris",
+    "nivel": 9
+  },
+  {
+    "id": 3,
+    "nome": "Iron",
+    "nivel": 7
+  },
+  {
+    "id": 4,
+    "nome": "Bellion",
+    "nivel": 15
+  },
+  {
+    "id": 5,
+    "nome": "Kaisel",
+    "nivel": 5
+  }
+]
