@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "Beru",
+    "nivel": 10,
+    "tipo": "assassino"
+  },
+  {
+    "id": 2,
+    "nome": "Igris",
+    "nivel": 9,
+    "tipo": "cavaleiro"
+  },
+  {
+    "id": 3,
+    "nome": "Iron",
+    "nivel": 7,
+    "tipo": "tanque"
+  }
+]

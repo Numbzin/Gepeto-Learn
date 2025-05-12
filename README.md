@@ -76,6 +76,12 @@ modulo-02-node-api/
 ├── aula-07-leitura-json/
 ├── aula-08-rotas-basicas/
 ├── aula-09-rotas-dinamicas/
+├── aula-10-criar-sombra/
+├── aula-11-query-url-parse/
+├── desafio-bonus-traidor/
+├── aula-12-intro-express/
+├── aula-13-post-sombra/
+├── aula-14-put-delete/
 ```
 
 ---
@@ -106,7 +112,10 @@ modulo-02-node-api/
 ✅ Simulação de consumo de APIs  
 ✅ Criação de servidores HTTP no Node.js  
 ✅ Envio de respostas JSON para front-end  
-✅ Rotas dinâmicas e tratamento de múltiplos endpoints
+✅ Rotas dinâmicas e tratamento de múltiplos endpoints  
+✅ Leitura de parâmetros (query, params, body)  
+✅ Criação de APIs REST com Express.js (`GET`, `POST`, `PUT`, `DELETE`)  
+✅ Persistência em arquivo com lógica de CRUD real
 
 ---
 
