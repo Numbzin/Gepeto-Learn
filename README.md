@@ -82,6 +82,8 @@ modulo-02-node-api/
 ├── aula-12-intro-express/
 ├── aula-13-post-sombra/
 ├── aula-14-put-delete/
+├── aula-15-organizacao-rotas/
+├── aula-16-middlewares/
 ```
 
 ---
@@ -115,7 +117,10 @@ modulo-02-node-api/
 ✅ Rotas dinâmicas e tratamento de múltiplos endpoints  
 ✅ Leitura de parâmetros (query, params, body)  
 ✅ Criação de APIs REST com Express.js (`GET`, `POST`, `PUT`, `DELETE`)  
-✅ Persistência em arquivo com lógica de CRUD real
+✅ Persistência em arquivo com lógica de CRUD real  
+✅ Modularização de rotas com Express Router  
+✅ Uso de controllers externos  
+✅ Middlewares globais e específicos (logger, validação de token)
 
 ---
 

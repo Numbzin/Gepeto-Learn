@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "nome": "Igris",
+    "tipo": "cavaleiro"
+  },
+  {
+    "id": 2,
+    "nome": "Tusk",
+    "tipo": "mago"
+  }
+]
