@@ -1,0 +1,6 @@
+[
+  { "nome": "Igris", "nivel": 90, "usuarioId": 1 },
+  { "nome": "Tusk", "nivel": 75, "usuarioId": 2 },
+  { "nome": "Iron", "nivel": 40, "usuarioId": 1 },
+  { "nome": "Kaisel", "nivel": 85, "usuarioId": 3 }
+]

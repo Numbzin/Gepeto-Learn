@@ -84,6 +84,9 @@ modulo-02-node-api/
 ├── aula-14-put-delete/
 ├── aula-15-organizacao-rotas/
 ├── aula-16-middlewares/
+├── aula-17-middlewares-parametro/
+├── aula-18-rotas-encadeadas/
+├── aula-19-validacao-query/
 ```
 
 ---
@@ -121,6 +124,8 @@ modulo-02-node-api/
 ✅ Modularização de rotas com Express Router  
 ✅ Uso de controllers externos  
 ✅ Middlewares globais e específicos (logger, validação de token)
+✅ Validação de ID e query string
+✅ Rotas encadeadas com parâmetros dinâmicos (`/usuarios/:id/sombras`)
 
 ---
 
