@@ -124,9 +124,9 @@ modulo-02-node-api/
 ✅ Persistência em arquivo com lógica de CRUD real  
 ✅ Modularização de rotas com Express Router  
 ✅ Uso de controllers externos  
-✅ Middlewares globais e específicos (logger, validação de token)
-✅ Validação de ID e query string
-✅ Rotas encadeadas com parâmetros dinâmicos (`/usuarios/:id/sombras`)
+✅ Middlewares globais e específicos (logger, validação de token)  
+✅ Validação de ID e query string  
+✅ Rotas encadeadas com parâmetros dinâmicos (`/usuarios/:id/sombras`)  
 ✅ Uso avançado de req.query para filtros dinâmicos com Express
 
 ---
