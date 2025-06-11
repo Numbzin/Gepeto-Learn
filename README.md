@@ -87,6 +87,7 @@ modulo-02-node-api/
 ├── aula-17-middlewares-parametro/
 ├── aula-18-rotas-encadeadas/
 ├── aula-19-validacao-query/
+├── aula-20-filtros-query/
 ```
 
 ---
@@ -126,6 +127,7 @@ modulo-02-node-api/
 ✅ Middlewares globais e específicos (logger, validação de token)
 ✅ Validação de ID e query string
 ✅ Rotas encadeadas com parâmetros dinâmicos (`/usuarios/:id/sombras`)
+✅ Uso avançado de req.query para filtros dinâmicos com Express
 
 ---
 
