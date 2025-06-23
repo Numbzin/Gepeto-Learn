@@ -71,7 +71,7 @@ modulo-02-node-api/
 ├── aula-02-servidor-http/
 ├── aula-03-json-api/
 ├── aula-04-arrays-json/
-├── aula-05-reestruturando-codigo/
+├── aula-05-modulos-node/
 ├── aula-06-shadowdb-modulo/
 ├── aula-07-leitura-json/
 ├── aula-08-rotas-basicas/
@@ -88,6 +88,10 @@ modulo-02-node-api/
 ├── aula-18-rotas-encadeadas/
 ├── aula-19-validacao-query/
 ├── aula-20-filtros-query/
+├── aula-21-parametros-id/
+├── aula-22-busca-combinada/
+├── aula-23-ordenacao-campo/
+├── aula-24-post-validacao/
 ```
 
 ---
@@ -127,7 +131,9 @@ modulo-02-node-api/
 ✅ Middlewares globais e específicos (logger, validação de token)  
 ✅ Validação de ID e query string  
 ✅ Rotas encadeadas com parâmetros dinâmicos (`/usuarios/:id/sombras`)  
-✅ Uso avançado de req.query para filtros dinâmicos com Express
+✅ Uso avançado de `req.query` com múltiplos filtros  
+✅ Ordenação por campo (`?ordenar=nome` ou `?ordenar=nivel`)  
+✅ Validação de corpo (`req.body`) com `POST` e tratamento de erros
 
 ---
 

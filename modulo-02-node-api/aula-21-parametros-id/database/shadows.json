@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nome": "Igris", "tipo": "tank", "nivel": 90 },
+  { "id": 2, "nome": "Tusk", "tipo": "mago", "nivel": 75 },
+  { "id": 3, "nome": "Iron", "tipo": "tank", "nivel": 40 },
+  { "id": 4, "nome": "Kaisel", "tipo": "montaria", "nivel": 85 },
+  { "id": 5, "nome": "Beru", "tipo": "assassino", "nivel": 100 }
+]
