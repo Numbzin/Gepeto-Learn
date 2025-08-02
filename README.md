@@ -63,7 +63,7 @@ modulo-01-javascript/
 
 ---
 
-## 📦 Módulo 02 — Node.js e APIs (em andamento 🚀)
+## 📦 Módulo 02 — Node.js e APIs (FINALIZADO ✅)
 
 ```bash
 modulo-02-node-api/
@@ -92,7 +92,13 @@ modulo-02-node-api/
 ├── aula-22-busca-combinada/
 ├── aula-23-ordenacao-campo/
 ├── aula-24-post-validacao/
+├── aula-25-patch-parcial/
+├── aula-26-delete-validacao/
+├── aula-27-middlewares-erro-sanitizacao/
+├── aula-28-projeto-api-final/
 ```
+
+✅ **Status:** 100% finalizado!
 
 ---
 
